@@ -1,0 +1,6 @@
+echo " Open Source Manifesto :"		
+echo "We believe in freedom of software."	
+echo "We support collaboration and sharing."	
+echo "We encourage learning and innovation."	
+echo "Open source empowers developers worldwide."		
+echo "Together, we build better technology."		
