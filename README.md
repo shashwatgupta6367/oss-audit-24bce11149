@@ -152,7 +152,7 @@ Step 3: Execute the Scripts
 
 
 
-#### 📸 Output
+####  Output
 
 
 
@@ -161,8 +161,7 @@ All scripts were tested in a Linux environment
 Execution screenshots are included in the project report PDF
 
 
-
-#### 📝 Notes
+#### Notes
 
 
 
@@ -177,8 +176,7 @@ Open-source tools
 Their real-world usage
 
 
-
-#### ✅ Conclusion
+#### Conclusion
 
 
 
